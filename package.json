@@ -1,5 +1,5 @@
 {
-  "name": "truckdrivernews-strapi-server",
+  "name": "my-project",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -10,19 +10,18 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.10.7",
-    "@strapi/plugin-users-permissions": "4.10.7",
-    "@strapi/strapi": "4.10.7",
+    "@strapi/plugin-i18n": "4.11.2",
+    "@strapi/plugin-users-permissions": "4.11.2",
+    "@strapi/strapi": "4.11.2",
     "better-sqlite3": "8.0.1",
     "pg": "^8.11.0",
-    "pg-connection-string": "^2.6.0",
     "strapi-provider-upload-do": "^3.6.9"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "b1d7ad97-93c0-4664-bde4-e44a4ca0f44e"
+    "uuid": "7cff57fa-2725-4f03-be16-c8dade7ff4eb"
   },
   "engines": {
     "node": ">=14.19.1 <=18.x.x",
